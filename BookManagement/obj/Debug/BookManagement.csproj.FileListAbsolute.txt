@@ -1,0 +1,7 @@
+D:\VisualStudio\CN5 2\BookManagement\BookManagement\bin\Debug\BookManagement.exe.config
+D:\VisualStudio\CN5 2\BookManagement\BookManagement\bin\Debug\BookManagement.exe
+D:\VisualStudio\CN5 2\BookManagement\BookManagement\bin\Debug\BookManagement.pdb
+D:\VisualStudio\CN5 2\BookManagement\BookManagement\obj\Debug\BookManagement.csproj.CoreCompileInputs.cache
+D:\VisualStudio\CN5 2\BookManagement\BookManagement\obj\Debug\BookManagement.exe
+D:\VisualStudio\CN5 2\BookManagement\BookManagement\obj\Debug\BookManagement.pdb
+D:\VisualStudio\CN5 2\BookManagement\BookManagement\obj\Debug\BookManagement.csprojAssemblyReference.cache
